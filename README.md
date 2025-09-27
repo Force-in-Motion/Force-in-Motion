@@ -8,42 +8,28 @@ Junior Python-разработчик, специализирующийся на 
 - Интеграционных решений
 - Telegramm ботов
 - Прикладных приложений с адаптивным GUI.
+
 ---
 
 ## 🎓 Общее образование
 
 **Донской государственный технический университет**  
-Факультет: Менеджмент  
-Специализация: Управление предприятиями  
-Город: Ростов-на-Дону  
-Год окончания: 2015
+- Факультет: Менеджмент  
+- Специализация: Управление предприятиями  
+- Город: Ростов-на-Дону  
+- Год окончания: 2015
 
 ---
 
 
 ## 🎓 Профильное образование
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-
-<!-- Диплом -->
-<a href="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/docs/diploma.pdf?raw=true" style="text-align:center; text-decoration:none;">
-  <img src="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/images/diploma_hover.gif?raw=true" width="200px" alt="Диплом" style="border-radius:15px;">
-  <br>🎓 Диплом
-</a>
-
-<!-- Аттестат -->
-<a href="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/docs/attestat.pdf?raw=true" style="text-align:center; text-decoration:none;">
-  <img src="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/images/attestat_hover.gif?raw=true" width="200px" alt="Аттестат" style="border-radius:15px;">
-  <br>📜 Аттестат
-</a>
 
 <!-- Сертификат -->
-<a href="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/docs/python_cert.pdf?raw=true" style="text-align:center; text-decoration:none;">
-  <img src="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/images/python_cert_hover.gif?raw=true" width="200px" alt="Python Certificate" style="border-radius:15px;">
-  <br>🏅 Python Certificate
-</a>
-
-</p>
+| SQL | SQLAlchemy |
+|-----|------------|
+| <img src="assets/images/SQL.gif" width="200px"> | <img src="assets/images/SQLALchemy.gif" width="200px"> |
+| 🏅 SQL Certificate | 🏅 SQLAlchemy Certificate |
 
 
 ---
