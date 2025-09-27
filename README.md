@@ -23,34 +23,28 @@ Junior Python-разработчик, специализирующийся на 
 
 ## 🎓 Профильное образование
 
-
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
 <!-- Диплом -->
-<div align="center">
-<a href="https://USERNAME.github.io/Force-in-Motion/assets/docs/diploma.pdf">
+<a href="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/docs/diploma.pdf?raw=true" style="text-align:center; text-decoration:none;">
   <img src="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/images/diploma_hover.gif?raw=true" width="200px" alt="Диплом" style="border-radius:15px;">
+  <br>🎓 Диплом
 </a>
-<br>🎓 Диплом
-</div>
 
 <!-- Аттестат -->
-<div align="center">
-<a href="https://USERNAME.github.io/Force-in-Motion/assets/docs/attestat.pdf">
+<a href="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/docs/attestat.pdf?raw=true" style="text-align:center; text-decoration:none;">
   <img src="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/images/attestat_hover.gif?raw=true" width="200px" alt="Аттестат" style="border-radius:15px;">
+  <br>📜 Аттестат
 </a>
-<br>📜 Аттестат
-</div>
 
 <!-- Сертификат -->
-<div align="center">
-<a href="https://USERNAME.github.io/Force-in-Motion/assets/docs/python_cert.pdf">
+<a href="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/docs/python_cert.pdf?raw=true" style="text-align:center; text-decoration:none;">
   <img src="https://github.com/USERNAME/Force-in-Motion/blob/main/assets/images/python_cert_hover.gif?raw=true" width="200px" alt="Python Certificate" style="border-radius:15px;">
+  <br>🏅 Python Certificate
 </a>
-<br>🏅 Python Certificate
-</div>
 
-</div>
+</p>
+
 
 ---
 
