@@ -1,0 +1,15 @@
+title: "Портфолио"
+name: "Сергей"
+description: "Дипломы, аттестаты и сертификаты"
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
+
+nav:
+  - title: "Главная"
+    url: /
+  - title: "Обо мне"
+    url: /about/
+  - title: "Достижения"
+    url: /achievements/
