@@ -11,18 +11,17 @@ Junior Python-разработчик, специализирующийся на 
 ---
 
 ## 🎓 Общее образование
- Донской государственный технический университет
- Факультет менеджмент
- Специализация: Управление предприятиями
- Ростов-на-Дону
- Год окончания: 2015
+
+**Донской государственный технический университет**  
+Факультет: Менеджмент  
+Специализация: Управление предприятиями  
+Город: Ростов-на-Дону  
+Год окончания: 2015
 
 ---
 
 
-## 🌟 Профильное образование
-
-## 🌟 Мои достижения
+## 🎓 Профильное образование
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
@@ -55,26 +54,70 @@ Junior Python-разработчик, специализирующийся на 
 
 ---
 
-## 💻 Портфолио-сайт
+## 🛠 Hard Skills
 
-<p align="center">
-<a href="https://USERNAME.github.io/Force-in-Motion/">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400px" alt="Portfolio GIF" style="border-radius:20px; box-shadow:0 0 25px rgba(0,0,0,0.3);">
-</a>
-<br>
-<strong>Перейти на сайт →</strong>
-</p>
+**Backend:** Python, FastAPI, SQLAlchemy, Alembic  
+
+**Базы данных:** PostgreSQL, MySQL, SQLite  
+
+**Проектирование:** SOLID, UML, OpenAPI  
+
+**Паттерны проектирования:** Repository, Facade, Adapter, Factory / Abstract Factory, Observer / Publisher-Subscriber, Decorator, Controller (MVC)  
+
+**Интеграции:** REST API, Telegram API  
+
+**Инструменты:** Git, pytest  
+
+**GUI / Утилиты:** CustomTkinter, tkinter, turtle  
 
 ---
 
-## ✨ Навыки
+## 💡 Soft Skills
+
+- Анализ технической документации и ТЗ  
+- Командная работа и коммуникация (Git workflow)  
+- Самостоятельность в решении архитектурных задач  
+- Внимание к тестируемости и поддерживаемости кода  
+- Критическое мышление и внимание к деталям  
+- Гибкость и адаптивность
+
+
+---
+
+## ✨ Технологии
 
 <p align="center">
+<!-- Языки -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<br>
+
+<!-- GUI -->
+<img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<br>
+
+<!-- Научные библиотеки -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+<br>
+
+<!-- Базы данных -->
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<br>
+
+<!-- Инструменты -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<br>
+
+<!-- IDE -->
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 </p>
+
 
 ---
 
@@ -82,4 +125,4 @@ Junior Python-разработчик, специализирующийся на 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=blue" alt="Profile Views">
 </p>
 
----
+
