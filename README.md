@@ -36,7 +36,7 @@ Junior Python-разработчик, специализирующийся на 
 
 ## 🛠 Hard Skills
 
-**Backend:** Python, FastAPI, SQLAlchemy, Alembic  
+**Backend:** Python, FastAPI, SQLAlchemy, Alembic, Docker
 
 **Базы данных:** PostgreSQL, MySQL, SQLite  
 
