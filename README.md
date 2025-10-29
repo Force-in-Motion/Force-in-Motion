@@ -67,6 +67,7 @@ Junior Python-разработчик, специализирующийся на 
 ## ✨ Технологии
 
 <p align="center">
+
 <!-- Языки -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
@@ -74,12 +75,27 @@ Junior Python-разработчик, специализирующийся на 
 <!-- GUI -->
 <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/CustomTkinter-FF6D00?style=for-the-badge&logo=python&logoColor=white">
 <br>
 
-<!-- Научные библиотеки -->
+<!-- Научные библиотеки / Data Science -->
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Algorithms-FF5733?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB... (пример SVG для структур данных и алгоритмов)">
+<br>
+
+<!-- Backend / API -->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<br>
+
+<!-- AI / ML / LLM -->
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <br>
 
 <!-- Базы данных -->
@@ -96,7 +112,9 @@ Junior Python-разработчик, специализирующийся на 
 <!-- IDE -->
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+
 </p>
+
 
 
 ---
