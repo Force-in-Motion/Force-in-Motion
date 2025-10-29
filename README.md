@@ -42,13 +42,13 @@ Junior Python-разработчик, специализирующийся на 
 
 **Проектирование:** SOLID, UML, OpenAPI  
 
-**Паттерны проектирования:** Repository, Facade, Adapter, Factory / Abstract Factory, Observer / Publisher-Subscriber, Decorator, Controller (MVC)  
+**Паттерны проектирования:** Repository, Facade, Adapter, Factory / Abstract Factory, Observer / Publisher-Subscriber, Decorator, Controller (MVC, MVP, MVVM)  
 
 **Интеграции:** REST API, Telegram API  
 
 **Инструменты:** Git, pytest  
 
-**GUI / Утилиты:** CustomTkinter, tkinter, turtle  
+**GUI / Утилиты:** CustomTkinter, pyqt5, pyqt6  
 
 ---
 
